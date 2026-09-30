@@ -19,7 +19,7 @@ The goal is to **turn financial models into functional, automated tools** that c
 |📊 **Risk Analysis & Portfolio Analytics**       | Python · Excel · VBA               | Planned             |
 |📋 **Investment Tracker**                        | Python · Excel                     | Under consideration |
 
-See available repertories below
+See available repositories below
 
 ## Currently Learning
 
