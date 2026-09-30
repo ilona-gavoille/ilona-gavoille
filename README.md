@@ -2,7 +2,7 @@
 
 🎓 **M1 Finance @ Université Paris-Saclay**
 
-📊 Currently developing practical tools for investment analysis, combining finance theory, quantitative methods and programming.
+📊 Currently **developing practical tools for investment analysis**, combining finance theory, quantitative methods and programming.
 
 I aim to build a comprehensive toolkit covering the investment process from end to end:
 
@@ -23,10 +23,12 @@ The goal is to turn financial models into functional , automated tools that can 
 
 🐍 Python for Finance · 📊 Risk Analysis · 📈 Backtesting · 📐 Factor Models
 
-## Tools
+## Skills
 
 **Excel · VBA · Power Query · Solver · Python · Financial APIs · Git/GitHub**
 
+**Finance Theories** : Modern Portfolio Theory (MPT), Capital Asset Pricing Model, Efficient Market Hypothesis
+
 ## Contact
 
-🔗 [LinkedIn]((https://www.linkedin.com/in/ilona-gavoille/))
+🔗 [LinkedIn](https://www.linkedin.com/in/ilona-gavoille/)
