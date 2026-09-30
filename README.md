@@ -8,7 +8,7 @@ Welcome to my GitHub, where I build and showcase practical tools for investment 
 
 Security Selection & Valuation → Portfolio Optimization & Asset Allocation → Risk Analysis → Portfolio Tracking
 
-The goal is to **turn financial models into functional , automated tools** that can actually be used and improved over time.
+The goal is to **turn financial models into functional, automated tools** that can actually be used and improved over time.
 
 ## Projects
 
