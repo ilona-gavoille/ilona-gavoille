@@ -14,10 +14,10 @@ The goal is to **turn financial models into functional, automated tools** that c
 
 | Project                                          | Tools                              | Status              |
 | ------------------------------------------------ | ---------------------------------- | ------------------- |
-| 📈 **Portfolio Optimization & Asset Allocation** | Excel · VBA · Power Query · Solver | Completed           |
-| 💰 **DCF & Fundamental Valuation**               | Excel · VBA                        | Ongoing             |
-| 📊 **Risk Analysis & Portfolio Analytics**       | Python · Excel · VBA               | Planned             |
-| 📐 **Investment Tracker**                        | Python · Excel                     | Under consideration |
+| **Portfolio Optimization & Asset Allocation** | Excel · VBA · Power Query · Solver | Completed           |
+| **DCF & Fundamental Valuation**               | Excel · VBA                        | Ongoing             |
+| **Risk Analysis & Portfolio Analytics**       | Python · Excel · VBA               | Planned             |
+| **Investment Tracker**                        | Python · Excel                     | Under consideration |
 
 See available repertories below
 
