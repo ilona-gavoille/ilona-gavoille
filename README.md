@@ -27,7 +27,7 @@ See available repertories below
 
 ## Skills
 
-**Excel · VBA · Power Query · Solver · Python · Financial APIs · Git/GitHub**
+**Excel · VBA · Power Query · Solver · Python · API Sourcing · Financial Modeling · Git/GitHub**
 
 **Financial Theories** : Modern Portfolio Theory (MPT), Capital Asset Pricing Model, Efficient Market Hypothesis
 
