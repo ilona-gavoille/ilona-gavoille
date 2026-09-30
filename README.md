@@ -6,14 +6,7 @@
 
 I aim to build a **comprehensive toolkit** covering the investment process from end to end:
 
-Security Selection & Valuation
-↓
-Portfolio Optimization & Asset Allocation
-↓
-Risk Analysis
-↓
-Portfolio Tracking
-
+Security Selection & Valuation → Portfolio Optimization & Asset Allocation → Risk Analysis → Portfolio Tracking
 
 The goal is to **turn financial models into functional , automated tools** that can actually be used and improved over time.
 
