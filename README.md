@@ -1,8 +1,11 @@
-# Hi, I'm Ilona
+# Hi, I'm Ilona 👋
+### Finance | Asset Management | Investment Analysis
+Welcome to my GitHub, where I build and showcase practical tools for investment analysis.
 
+## About me
 🎓 **M1 Finance @ Université Paris-Saclay**
 
-📊 Currently **developing practical tools for investment analysis**, combining finance theory, quantitative methods and programming.
+📊 Currently **developing tools for investment analysis**, combining finance theory, quantitative methods and programming.
 
 I aim to build a **comprehensive toolkit** covering the investment process from end to end:
 
