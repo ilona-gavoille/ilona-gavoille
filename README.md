@@ -18,6 +18,7 @@ The goal is to **turn financial models into functional, automated tools** that c
 | 💰 **DCF & Fundamental Valuation**               | Excel · VBA                        | Ongoing             |
 | 📊 **Risk Analysis & Portfolio Analytics**       | Python · Excel · VBA               | Planned             |
 | 📐 **Investment Tracker**                        | Python · Excel                     | Under consideration |
+See available repertories below
 
 ## Currently Learning
 
