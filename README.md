@@ -17,7 +17,7 @@ The goal is to **turn financial models into functional , automated tools** that 
 | 📈 **Portfolio Optimization & Asset Allocation** | Excel · VBA · Power Query · Solver | Completed           |
 | 💰 **DCF & Fundamental Valuation**               | Excel · VBA                        | Ongoing             |
 | 📊 **Risk Analysis & Portfolio Analytics**       | Python · Excel · VBA               | Planned             |
-| 📐 **Fama-French Factor Model**                  | Python · Excel                     | Under consideration |
+| 📐 **Investment Tracker**                        | Python · Excel                     | Under consideration |
 
 ## Currently Learning
 
