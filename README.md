@@ -4,11 +4,11 @@
 
 📊 Currently **developing practical tools for investment analysis**, combining finance theory, quantitative methods and programming.
 
-I aim to build a comprehensive toolkit covering the investment process from end to end:
+I aim to build a **comprehensive toolkit** covering the investment process from end to end:
 
 Security Selection & Valuation → Portfolio Optimization & Asset Allocation → Risk Analysis → Portfolio Tracking
 
-The goal is to turn financial models into functional , automated tools that can actually be used and improved over time.
+The goal is to **turn financial models into functional , automated tools** that can actually be used and improved over time.
 
 ## Projects
 
