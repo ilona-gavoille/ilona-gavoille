@@ -4,7 +4,7 @@ Welcome to my GitHub, where I build and showcase practical tools for investment 
 ## About me
 🎓 **Master 1 Finance @ Université Paris-Saclay**
 
-📊 I aim to build a **comprehensive toolkit** combining finance theory, quantitative methods and programming, and covering the investment process from end to end:
+📊 I aim to build a **comprehensive investment toolkit** that combines financial theory, quantitative methods and programming to support the investment process from end to end:
 
 Security Selection & Valuation → Portfolio Optimization & Asset Allocation → Risk Analysis → Portfolio Tracking
 
