@@ -27,7 +27,7 @@ The goal is to **turn financial models into functional , automated tools** that 
 
 **Excel · VBA · Power Query · Solver · Python · Financial APIs · Git/GitHub**
 
-**Finance Theories** : Modern Portfolio Theory (MPT), Capital Asset Pricing Model, Efficient Market Hypothesis
+**Financial Theories** : Modern Portfolio Theory (MPT), Capital Asset Pricing Model, Efficient Market Hypothesis
 
 ## Contact
 
