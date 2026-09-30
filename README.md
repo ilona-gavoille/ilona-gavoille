@@ -29,4 +29,4 @@ The goal is to turn financial models into functional , automated tools that can 
 
 ## Contact
 
-🔗 [LinkedIn](YOUR_LINKEDIN_URL)
+🔗 [LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/ilona-gavoille/))
