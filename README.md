@@ -19,16 +19,6 @@ The goal is to **turn financial models into functional, automated tools** that c
 
 See available repositories below
 
-## Currently Learning
-
-🐍 Python for Finance · 📊 Risk Analysis · 📈 Backtesting · 📐 Factor Models
-
 ## Skills
 
-**Excel · VBA · Power Query · Solver · Python · API Sourcing · Financial Modeling · Git/GitHub**
-
-**Financial Theories** : Modern Portfolio Theory (MPT), Capital Asset Pricing Model, Efficient Market Hypothesis
-
-## Contact
-
-🔗 [LinkedIn](https://www.linkedin.com/in/ilona-gavoille/)
+**Excel · VBA · Power Query · Solver · Python · API Sourcing · Financial Modeling · Python for Finance (learning)**
