@@ -2,7 +2,7 @@
 
 Welcome to my GitHub, where I build and showcase practical tools for investment analysis.
 
-📊 I aim to build a **comprehensive investment toolkit** that combines financial theory, quantitative methods and programming to support the investment process from end to end:
+🎯 I aim to build a **comprehensive investment toolkit** that combines financial theory, quantitative methods and programming to support the investment process from end to end:
 
 Security Selection & Valuation → Portfolio Optimization & Asset Allocation → Risk Analysis → Portfolio Tracking
 
