@@ -1,4 +1,4 @@
-# Hi, Welcome to my GitHub!
+# Hi, welcome to my GitHub profile!
 
 This is where I build and showcase practical tools for investment analysis.
 
