@@ -1,6 +1,6 @@
-# Hi, I'm Ilona 👋
+# Hi, Welcome to my GitHub !
 
-Welcome to my GitHub, where I build and showcase practical tools for investment analysis.
+This is where I build and showcase practical tools for investment analysis.
 
 🎯 I aim to build a **comprehensive investment toolkit** that combines financial theory, quantitative methods and programming to support the investment process from end to end:
 
@@ -8,7 +8,6 @@ Security Selection & Valuation → Portfolio Optimization & Asset Allocation →
 
 The goal is to **turn financial models into functional, automated tools** that can actually be used and improved over time.
 
-## Projects
 
 | Project                                          | Tools                              | Status              |
 | ------------------------------------------------ | ---------------------------------- | ------------------- |
@@ -18,7 +17,3 @@ The goal is to **turn financial models into functional, automated tools** that c
 |📋 **Investment Tracker**                        | Python · Excel                     | Under consideration |
 
 See available repositories below
-
-## Skills
-
-**Excel · VBA · Power Query · Solver · Python · API Sourcing · Financial Modeling · Python for Finance (learning)**
