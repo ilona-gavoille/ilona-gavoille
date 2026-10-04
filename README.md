@@ -1,8 +1,6 @@
 # Hi, I'm Ilona 👋
 
 Welcome to my GitHub, where I build and showcase practical tools for investment analysis.
-## About me
-🎓 **Master 1 Finance @ Université Paris-Saclay**
 
 📊 I aim to build a **comprehensive investment toolkit** that combines financial theory, quantitative methods and programming to support the investment process from end to end:
 
